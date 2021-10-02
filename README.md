@@ -1,4 +1,4 @@
-# HelloPhoenix
+# HelloPhoenix , how are you?
 
 To start your Phoenix app:
 
